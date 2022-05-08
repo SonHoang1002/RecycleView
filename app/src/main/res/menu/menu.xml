@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action1"
+        android:orderInCategory="@integer/material_motion_duration_short_1"
+        android:title="action1"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action2"
+        android:orderInCategory="@integer/material_motion_duration_short_1"
+        android:title="action2"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action3"
+        android:orderInCategory="@integer/material_motion_duration_short_1"
+        android:title="action3"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action4"
+        android:orderInCategory="@integer/material_motion_duration_short_1"
+        android:title="action4"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action5"
+        android:orderInCategory="@integer/material_motion_duration_short_1"
+        android:title="action5"
+        app:showAsAction="ifRoom" />
+</menu>
